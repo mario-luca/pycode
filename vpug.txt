@@ -1,0 +1,5 @@
+vpug =
+vim
+python
+unix
+git
